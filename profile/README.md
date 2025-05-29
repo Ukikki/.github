@@ -66,6 +66,12 @@ Whisper 기반 실시간 음성 인식, Gemini & Azure Translator 기반 다국�
         <td align="center"><b><a href="https://github.com/ZUZ1H3">주지혜</a></b></td>
         <td align="center"><b><a href="https://github.com/Wooniq">한지운</a></b></td>
     </tr>
+    <tr>
+        <td align="center"><b>프론트엔드</b></td>
+        <td align="center"><b>프론트엔드</b></td>
+        <td align="center"><b>백엔드</b></td>
+        <td align="center"><b>백엔드</b></td>
+    </tr>
 </table>
 
 
