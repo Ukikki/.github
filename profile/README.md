@@ -16,7 +16,7 @@ DolAi는 단순한 요약기가 아닙니다.
 <br><br><br>
 ### 🕸️ 회의의 흐름을 실시간 지식 그래프로
 DolAi는 회의 중 발생하는 발화, 키워드, 주제 흐름을 실시간으로 수집하고,  
-각 회의마다 독립적인 **Graph RAG**(Graph-based Retrieval-Augmented Generatio)를 **동적**으로 생성하여  
+각 회의마다 독립적인 **Graph RAG**(Graph-based Retrieval-Augmented Generation)를 **동적**으로 생성하여  
 회의의 맥락과 정보 흐름을 구조적으로 보존합니다. <br><br><br>
 
 ### 🤖 자동화된 회의 분석 파이프라인
