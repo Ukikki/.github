@@ -16,27 +16,9 @@
 DolAi는 단순한 요약기가 아닙니다.  
 **“DolAi는 회의를 실시간으로 구조화하고, 기억하고, 요약하는 AI 어시스턴스입니다.”**
 
-<br><br><br>
-### 🕸️ 회의의 흐름을 실시간 지식 그래프로
-DolAi는 회의 중 발생하는 발화, 키워드, 주제 흐름을 실시간으로 수집하고,  
-각 회의마다 독립적인 **Graph RAG**(Graph-based Retrieval-Augmented Generation)를 **동적**으로 생성하여  
-회의의 맥락과 정보 흐름을 구조적으로 보존합니다. <br><br><br>
-
-### 🤖 자동화된 회의 분석 파이프라인
-Whisper 기반 실시간 음성 인식, Gemini & Azure Translator 기반 다국어 요약·번역,  
-그리고 회의 종료 후 자동 회의록 및 할 일(To-do) 생성까지 —  
-**DolAi는 회의의 전 과정을 자동화하고 시각화합니다.** <br><br><br>
-
-### 💬 기억하고 응답하는 회의형 LLM 인터페이스
-또한 구조화된 대화 그래프 위에 LLM을 연결하여,  
-> "방금 언급된 AI 모델이 뭐였지?"  
-> "이 안건 누가 먼저 제안했어?"
-
-같은 질문에도 **정확한 출처 기반 응답이 가능한 회의형 질의응답 인터페이스**를 제공합니다. <br><br><br>
-
+![README md 2](https://github.com/user-attachments/assets/c36d71d7-b12b-4a1a-9a15-436b9e4b9c7e)
 
 <br>
-
 
 
 ![README md 3](https://github.com/user-attachments/assets/da5c5399-8ffb-475a-bb47-a3f75e42e292)
